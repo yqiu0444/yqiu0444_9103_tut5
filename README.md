@@ -41,7 +41,8 @@ Regarding the pixelated style, this is the coding technique I referenced.
 
 
 
+![Referenced Coding Technique](assets/Game_of_Life_1.png)
 
 
 
-
+![Referenced Coding Technique](assets/Coding_Technique.png)
